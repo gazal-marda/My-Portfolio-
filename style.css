@@ -37,3 +37,28 @@
 	padding-bottom: 5em;
 	background: cover;
 }
+
+.about h3
+{
+	margin-top: 2em;
+	text-align: center;
+}
+
+.about p
+{
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+	font-size: 20px;
+}
+
+.about-row
+{
+	margin-right: 0;
+}
+
+.skills-img {
+	height: 150px;
+	width: 150px;
+	margin-top: 30px;
+	margin-left: 15px;
+}
