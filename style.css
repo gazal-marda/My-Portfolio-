@@ -62,3 +62,27 @@
 	margin-top: 30px;
 	margin-left: 15px;
 }
+footer {
+	background-color: black;
+	height: 80px;
+}
+.copy {
+	color: white;
+	font-family: 'Cabin', sans-serif;
+	font-size: 20px;
+}
+.mail {
+	display: inline;
+}
+.instagram {
+	display: inline;
+	margin-left: 5em;
+}
+.linkedin {
+	display: inline;
+	margin-left: 5em;
+}
+.github {
+	display: inline;
+	margin-left: 5em;
+}
